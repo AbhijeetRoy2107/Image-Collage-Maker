@@ -70,8 +70,8 @@ The resulting image is exactly **2048 × 2048 pixels**.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Image_Collager.git
-cd Image_Collager
+git clone https://github.com/AbhijeetRoy2107/Image-Collage-Maker.git
+cd Image-Collage-Maker
 ```
 
 Create a virtual environment using [uv](https://github.com/astral-sh/uv):
