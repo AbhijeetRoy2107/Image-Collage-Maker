@@ -294,27 +294,9 @@ Performance depends on:
 
 Very large canvases such as `8192 × 8192` or larger can require significant memory during export.
 
-## Roadmap
-
-- [ ] Drag-and-drop image importing
-- [ ] Drag-and-drop image rearrangement
-- [ ] Reorder images
-- [ ] Custom cell dimensions
-- [ ] Image rotation
-- [ ] Image borders
-- [ ] Save/load collage projects
-- [ ] Preset canvas sizes
-- [ ] Automatic optimal grid calculation
-- [ ] Batch collage generation
-- [ ] Dark mode
-- [ ] GitHub Actions EXE builds
-- [ ] Portable release packages
-
 ## License
 
 This project is licensed under the MIT License.
-
-See [`LICENSE`](LICENSE) for details.
 
 ## Contributing
 
